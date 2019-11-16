@@ -4,6 +4,12 @@
 
 Repository devoted to the technical tutorial I held at [DataScience 5.0](https://www.datasciconference.com/) conference.
 
+## Registration
+Please, if attending workshop, register [here](https://docs.google.com/forms/d/e/1FAIpQLSfaAAH4zUWjza0f66Tm0mNwntO3a6Rougbi_8WaWjXWbYRT1A/viewform?usp=sf_link<Paste>)
+
+## Feedback
+To send me feedback after the workshop, please fill out [this](https://docs.google.com/forms/d/e/1FAIpQLSemCXDB2tBt2GNd-k1xkMEV1pofS9BHx6snZhoa19mPcPKYBA/viewform?usp=sf_link) form.
+
 ## Abstract
 PyTorch is one of the most popular deep learning frameworks in the field of ML today. We will look to explore it, learn fundamentals and solve interesting challenges in it. Participants will also get to solve tasks prepared by the lecturer.
 
