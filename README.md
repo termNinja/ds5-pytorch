@@ -24,3 +24,8 @@ Nemanja Mićović is a teaching assistant and PhD student at Faculty of Mathemat
 Knowledge of Python is required, and basics of Machine learning will greatly
 help you follow the tutorial. That means knowing what classification and regression
 are, knowing common loss functions and similar.
+
+## What next?
+Consider completing the following courses:
+- Udacity: [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
+- Coursera: [Deep Learning specialization](https://www.coursera.org/specializations/deep-learning)
